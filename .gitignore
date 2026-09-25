@@ -1,0 +1,26 @@
+# Ambiente Python
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Resultados temporários
+results/tmp/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
