@@ -4,7 +4,7 @@
 
 Comparar métodos determinísticos e bayesianos para classificação de risco de crédito, com foco em:
 
-- deicriminação;
+- discriminação;
 - calibração;
 - qualidade probabilística;
 - quantificação de incerteza.
